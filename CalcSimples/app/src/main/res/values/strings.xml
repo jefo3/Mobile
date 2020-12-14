@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalcSimples</string>
+    <string name="button01">Calcular</string>
+    <string name="textResult" />
+    <string name="soma">+</string>
+    <string name="num">0</string>
+</resources>
